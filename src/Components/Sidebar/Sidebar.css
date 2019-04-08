@@ -1,0 +1,17 @@
+.sidebar {
+  display: inline-block;
+  text-align: left;
+}
+.children {
+  background-color: rgba(206, 206, 206, 0.5);
+}
+.section {
+  border: 1px solid gray;
+  border-radius: 4px;
+  background-color: rgba(206, 206, 206, 0.1);
+  padding: 4px;
+  margin: 2px;
+}
+.selected {
+  background-color: rgba(206, 206, 206);
+}

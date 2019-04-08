@@ -1,0 +1,10 @@
+.propertyTable {
+  width: 100%;
+  margin-top: 8px;
+  padding: 4px;
+}
+.propertyTable td {
+  border: 1px solid gray;
+  background-color: rgba(206, 206, 206, 0.5);
+  width: 50%;
+}
